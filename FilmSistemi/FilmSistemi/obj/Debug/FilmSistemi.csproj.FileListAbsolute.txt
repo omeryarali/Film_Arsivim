@@ -1,0 +1,12 @@
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\bin\Debug\FilmSistemi.exe.config
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\bin\Debug\FilmSistemi.exe
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\bin\Debug\FilmSistemi.pdb
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.csproj.AssemblyReference.cache
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.csproj.SuggestedBindingRedirects.cache
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.Form1.resources
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.Properties.Resources.resources
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.csproj.GenerateResource.cache
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.csproj.CoreCompileInputs.cache
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.exe
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.pdb
+D:\Proje\MURATYÜCEDAĞ\FilmSistemi\FilmSistemi\obj\Debug\FilmSistemi.FrmTamEkran.resources
